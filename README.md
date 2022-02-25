@@ -33,5 +33,8 @@ This program removes duplicate pages from a pdf
 - The problem was that the tools availabe in the market required me to pay or either to install sketchy applications
 - So, I decided to code one up using PDF manipluation library **PyPDF2**  
 
+Thank you for using JET-PDF
 
 Made with 💚 by Kaushik
+
+If you found this program useful star my repository
