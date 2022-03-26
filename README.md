@@ -5,7 +5,7 @@ This program removes duplicate pages from a pdf
 > ### UPDATED INSTALLATION for Windows
 - Download / clone the repository
 - cd to /dist/JET-PDF and open JET-PDF.exe
-- Thats it open it
+- That's it open it
 
 > ### Installation
 - Install Python 3.7.x [Instructions](https://www.python.org/downloads/release/python-370/)
